@@ -67,7 +67,7 @@ print('Predicted CO2 for the corresponding weight and volume',predictedCO2)
 ```
 ## Output:
 
-![program](Ex10.png)
+![program](ex.png)
 
 
 ## Result
